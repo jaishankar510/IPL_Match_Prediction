@@ -1,0 +1,34 @@
+Step 1
+collect all IPL datas sets from www.kaggle.com
+1) Player_rank
+2) team_rank
+3) ipl_winners
+4) matches
+matched cleaned
+preduction_result
+
+step 2
+after make templates with the help of boostraps3 and css and import images.jpeg 
+1)index.html
+2)result.html
+
+step 3
+after make prediction.py and app.py file  and define all the classes
+and import IPL Teams  and use the conditions if and return the value
+
+How to run this project
+1)install python 3 and set the path
+2)open visual studio code or pycharm etc
+3)pip install Flask==1.0.2
+4)pip install prediction==0.0.3
+5) pip install beautifulsoup4==4.6.3
+6)pip install pandas==0.23.4
+7) pip install Requests==2.20.0
+8)pip install scikit_learn==0.19.2
+9)pip install gunicorn
+10)pip install scipy
+
+step 5
+and run command 
+python app.py
+
